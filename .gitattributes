@@ -1,0 +1,13 @@
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-language=markdown
+*.html linguist-language=Markdown
+*.css linguist-language=Markdown
+*.js linguist-language=Markdown
+*.py linguist-language=Markdown
+*.php linguist-language=Markdown
+*.exe linguist-language=Markdown
+"Phone-and-Text-Impersonation-Scams-And-Prevention" linguist-language=Markdown
