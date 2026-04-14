@@ -1,1 +1,10 @@
-# *.md linguist-language=Markdown
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-language=markdown
+*.html linguist-language=Markdown
+"Phone-and-Text-Impersonation-Scams-And-Prevention" linguist-language=Markdown
+"README" linguist-language=Markdown
+*. linguist-language=Markdown
